@@ -67,5 +67,22 @@ img{
 }
 
 .etch-col{
-    
+
+}
+
+#top{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+button{
+    background-color: #1a1a1a;
+    color: #fff;
+    font-family: 'Audiowide', cursive;
+    border: 1px solid #fff;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
